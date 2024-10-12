@@ -1,7 +1,7 @@
 # Tinder_AI_Bot
 ![image](https://github.com/user-attachments/assets/fbcde86c-8b74-44c6-bcf8-ba586607bdc7)
 
-![image](https://github.com/user-attachments/assets/b9f2867c-a049-4a4c-bbf0-c1daa60ccee6)
+![image](https://github.com/user-attachments/assets/73ba7d7c-475e-41ea-996d-612a7017d4da)
 
 ![image](https://github.com/user-attachments/assets/a473e247-9cc8-46ed-878b-a39078b0c6a0)
 
